@@ -185,11 +185,3 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-<div align="center">
-
-**Built with Python & PyQt6 for secure communications**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/qumail?style=social)](https://github.com/yourusername/qumail/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/qumail?style=social)](https://github.com/yourusername/qumail/network)
-
-</div>
