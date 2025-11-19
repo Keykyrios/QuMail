@@ -1,0 +1,19 @@
+# requirements.txt
+# Existing dependencies
+PyQt6>=6.4.0
+PyQt6-WebEngine>=6.4.0
+PyQt6-Multimedia>=6.4.0
+PyQt6-MultimediaWidgets>=6.4.0
+qtawesome>=1.2.0
+qasync>=0.24.0
+httpx>=0.24.0
+cryptography>=3.4.8
+keyring>=23.0.0
+configparser>=5.0.0
+
+# New dependencies for voice/video calls
+fastapi>=0.100.0
+uvicorn>=0.22.0
+websockets>=11.0.0
+pydantic>=2.0.0
+agora-token-builder>=1.0.0
